@@ -7,7 +7,7 @@
 
 # Site settings
 title: libqtkmz.so
-email: qtakamitsu @ gmail.com
+#email: qtakamitsu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   雑多なメモや記録
 baseurl: "" # the subpath of your site, e.g. /blog
