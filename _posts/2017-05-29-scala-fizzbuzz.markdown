@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scala で Fizz Buzz"
-date:   2017-05-29 00:00:00 +0900
+date:   2017-05-29 00:52:28 +0900
 categories: 
 ---
 
