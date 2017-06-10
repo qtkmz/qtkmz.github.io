@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "わんくま同盟 東京勉強会 #59"
-date:   2016-02-16 00:52:28 +0900
+date:   2011-05-28
 categories: 
 ---
 
