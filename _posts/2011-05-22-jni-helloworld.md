@@ -4,11 +4,12 @@ title:  "JNI の "Hello, world" (C から Java のメソッドを呼ぶ)"
 date:   2011-05-22 00:52:28 +0900
 categories: java c jni
 ---
-
-Java 側のメソッドを C 側から呼んでみた。手順を踏まないといけないところが面倒だ。
+Java 側のメソッドを C 側から呼んでみた。手順を踏まないといけないところが面倒だ。  
 引数の渡し方とか、戻り値の受け取り方とか、クラスを使った場合など、ちょっと追加で調べてみたいかも。
 
+
 ## ソースコード
+
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -84,4 +85,3 @@ LD_LIBRARY_PATH=$JAVA_HOME/jre/lib/i386/client ./main
 ```
 Hello world
 ```
-
