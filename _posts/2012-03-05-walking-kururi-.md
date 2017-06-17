@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "久留里散策 - LEICA X1"
-date:   2011-05-22 00:52:28 +0900
-categories: java c jni
+title:  "久留里散策"
+date:   2012-03-05
+categories: 
 ---
 今回は久留里線に乗って、久留里城へ。初の城めぐりです。  
 実際に行ったのは先月。こちらの更新をすっかり忘れていました。  
