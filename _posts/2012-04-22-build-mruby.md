@@ -16,24 +16,25 @@ categories: mruby
 
 ## 手順と動作確認
 
-    $ git clone https://github.com/mruby/mruby.git
-    $ cd mruby
-    $ make
-    $ cd bin
-    $ ./mruby -v
-    ruby 1.8.7 (2010-08-16 patchlevel 302) [i386-mingw32]
-    Usage: ./mruby [switches] programfile
-      switches:
-      -b           load and execute RiteBinary (mrb) file
-      -c           check syntax only
-      -v           print version number, then run in verbose mode
-      --verbose    run in verbose mode
-      --version    print the version
-      --copyright  print the copyright
-    $ cat hello.rb
-    print "Hello, world\n"
-    $ ./mruby ./hello.rb
-    Hello, world
-
+```
+$ git clone https://github.com/mruby/mruby.git
+$ cd mruby
+$ make
+$ cd bin
+$ ./mruby -v
+ruby 1.8.7 (2010-08-16 patchlevel 302) [i386-mingw32]
+Usage: ./mruby [switches] programfile
+  switches:
+  -b           load and execute RiteBinary (mrb) file
+  -c           check syntax only
+  -v           print version number, then run in verbose mode
+  --verbose    run in verbose mode
+  --version    print the version
+  --copyright  print the copyright
+$ cat hello.rb
+print "Hello, world\n"
+$ ./mruby ./hello.rb
+Hello, world
+```
 
 [Rails Hub情報局: ついに軽量Rubyの「mruby」のソースコードが公開！](http://el.jibun.atmarkit.co.jp/rails/2012/04/rubymruby-2004.html "Rails Hub情報局: ついに軽量Rubyの「mruby」のソースコードが公開！")
