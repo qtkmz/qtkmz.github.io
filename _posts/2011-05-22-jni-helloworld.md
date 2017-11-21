@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JNI の "Hello, world" (C から Java のメソッドを呼ぶ)"
+title:  JNI の "Hello, world" (C から Java のメソッドを呼ぶ)
 date:   2011-05-22 00:52:28 +0900
 categories: java c jni
 ---
