@@ -6,6 +6,7 @@ url: "https://github.com/qtkmz/"
 twitter_username: qtkmz
 github_username:  qtkmz
 timezone: Asia/Tokyo
-theme: jekyll-theme-midnight
+
+theme: minima
 
 markdown: kramdown
