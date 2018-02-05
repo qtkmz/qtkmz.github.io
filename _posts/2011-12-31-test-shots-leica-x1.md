@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LEICA X1 の試し撮り"
-date:   2011-05-22 00:52:28 +0900
+date:   2011-12-31 00:52:28 +0900
 categories: java c jni
 ---
 JPEG super fine 形式にて撮影。公開するのなら、オリジナルでないとダメか。比較にならないか

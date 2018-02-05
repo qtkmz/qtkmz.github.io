@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HBase にテストデータを登録する"
-date:   2016-02-16 00:52:28 +0900
+date:   2011-06-07 00:52:28 +0900
 categories: hbase
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "雑多なメモの管理に Quiver"
-date:   2016-02-29 00:00:00 +0900
+date:   2016-02-28 00:00:00 +0900
 categories: 
 ---
 
